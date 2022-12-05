@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kiranraoboinapally
-- 👀 I’m interested in Blockchain,Cryptocurrency,
+- 👀 I’m interested in Blockchain,Cryptocurrency,Solidity
 - 🌱 I’m currently learning java,python,cpp,DBMS,HTML, JavaScript 
 
 - 📫 How to reach me kiranraoboinapally@gmail.com
