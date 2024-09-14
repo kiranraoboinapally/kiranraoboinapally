@@ -28,13 +28,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=kiranraoboinapally)
 
 
-# Digantara Project
-
-## Visitor Count
-
-![Visitor Count](https://hits.seeyour.website/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkiranraoboinapally%2Fdigantaraproject)
-
-
 ## 🔗 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/kiranrao07)
 
