@@ -17,10 +17,16 @@
 ## 📈 GitHub Stats
 [![Kiran Rao Boinapally's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiranraoboinapally&show_icons=true&count_private=true&theme=dark)](https://github.com/kiranraoboinapally)
 
+## 👁️ Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=kiranraoboinapally)
+
 ## 🔗 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/kiranrao07)
 
 Feel free to explore my repositories, where I share my projects and research in data science and AI. Let's connect!
+
+
+
 
 
 
