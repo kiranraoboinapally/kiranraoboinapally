@@ -17,6 +17,20 @@
 ## 📈 GitHub Stats
 [![Kiran Rao Boinapally's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiranraoboinapally&show_icons=true&count_private=true&theme=dark)](https://github.com/kiranraoboinapally)
 
+## My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiranraoboinapally&show_icons=true&count_private=true)
+
+## Repository Metrics
+
+![GitHub Stars](https://img.shields.io/github/stars/kiranraoboinapally/digantaraproject?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/kiranraoboinapally/digantaraproject?style=social)
+
+## Visitor Count
+
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=kiranraoboinapally.digantaraproject)
+
+
 ## 👁️ Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=kiranraoboinapally)
 
