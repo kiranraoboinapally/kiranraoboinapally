@@ -18,12 +18,6 @@
 [![Kiran Rao Boinapally's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiranraoboinapally&show_icons=true&count_private=true&theme=dark)](https://github.com/kiranraoboinapally)
 
 
-## Repository Metrics
-
-![GitHub Stars](https://img.shields.io/github/stars/kiranraoboinapally/digantaraproject?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/kiranraoboinapally/digantaraproject?style=social)
-
-
 ## 👁️ Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=kiranraoboinapally)
 
