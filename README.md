@@ -1,5 +1,5 @@
 
-# Hi there! I'm Kiran Rao Boinapally 👋
+# Hi there! I'm Kiran Rao 👋
 
 ## 🌍 About Me
 - 🔭 I’m currently working on projects related to Data Science, Machine Learning, and AI.
