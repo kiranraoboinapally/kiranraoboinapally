@@ -6,7 +6,6 @@
 - 🌱 I’m learning and exploring advancements in Data Science, Large Language Models (LLM), and Artificial Intelligence.
 - 👨‍💻 I’m passionate about applying machine learning techniques to solve real-world problems and enhance decision-making processes.
 - 💬 Feel free to ask me about data analysis, ML algorithms, and AI trends.
-- 📫 You can reach me at [kiranraoboinapally@gmail.com](mailto:kiranraoboinapally@gmail.com).
 
 ## 🚀 Technologies & Tools
 - **Languages:** Python, R
