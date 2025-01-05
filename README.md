@@ -32,7 +32,6 @@ Feel free to explore my repositories, where I share my projects and research in 
 
 
 
-
 <!---
 kiranraoboinapally/kiranraoboinapally is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
