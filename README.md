@@ -8,10 +8,10 @@
 - 💬 Feel free to ask me about data analysis, ML algorithms, and AI trends.
 
 ## 🚀 Technologies & Tools
-- **Languages:** Python, R
+- **Languages:** Python, R,Java
 - **Data Science & ML:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras
 - **Web Technologies:** HTML, CSS, JavaScript
-- **Tools:** Git, Docker, Jupyter Notebook
+- **Tools:** Git,Jupyter Notebook
 
 ## 📈 GitHub Stats
 [![Kiran Rao Boinapally's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiranraoboinapally&show_icons=true&count_private=true&theme=dark)](https://github.com/kiranraoboinapally)
