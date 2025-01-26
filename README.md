@@ -2,32 +2,23 @@
 # Hi there! I'm Kiran Rao 👋
 
 ## 🌍 About Me
-- 🔭 I’m currently working on projects related to Data Science, Machine Learning, and AI.
-- 🌱 I’m learning and exploring advancements in Data Science, Large Language Models (LLM), and Artificial Intelligence.
-- 👨‍💻 I’m passionate about applying machine learning techniques to solve real-world problems and enhance decision-making processes.
-- 💬 Feel free to ask me about data analysis, ML algorithms, and AI trends.
+- Passionate about software development, database management, and programming.
+- Currently deepening my knowledge in SQL, Java, and web technologies.
+- Always open to discussing tech, problem-solving, and new development trends!
 
-## 🚀 Technologies & Tools
-- **Languages:** Python, R,Java
-- **Data Science & ML:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras
-- **Web Technologies:** HTML, CSS, JavaScript
-- **Tools:** Git,Jupyter Notebook
+## 🚀 Skills
+- **SQL**: MySQL, query optimization, joins, DML/DDL operations.
+- **Java**: Core concepts, OOP, algorithm design, and problem-solving.
+- **Web**: HTML, CSS, JavaScript for front-end development.
+- **Tools**: Git, VSCode, MySQL, Linux/Windows.
 
 ## 📈 GitHub Stats
-[![Kiran Rao Boinapally's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiranraoboinapally&show_icons=true&count_private=true&theme=dark)](https://github.com/kiranraoboinapally)
-
-
-## 👁️ Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=kiranraoboinapally)
-
+[![Kiran Rao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiranraoboinapally&show_icons=true&count_private=true&theme=dark)](https://github.com/kiranraoboinapally)
 
 ## 🔗 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/kiranrao07)
 
-Feel free to explore my repositories, where I share my projects and research in data science and AI. Let's connect!
-
-
-
+Explore my repositories, and let’s connect!
 
 
 
