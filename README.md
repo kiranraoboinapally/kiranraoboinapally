@@ -31,7 +31,6 @@
 ## 📊 GitHub Stats
 ![Kiran Rao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiranraoboinapally&show_icons=true&theme=radical)
 
-![kiranraoboinapally's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kiranraoboinapally&theme=tokyonight&hide_border=true)
 
 ---
 
