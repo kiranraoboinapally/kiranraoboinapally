@@ -2,32 +2,41 @@
 # Hi there! I'm Kiran Rao 👋
 
 ## 🚀 About Me
+Passionate about **software development**, **database management**, and **programming**. Currently deepening my knowledge in **SQL**, **Java**, and **web technologies**. Always open to discussing tech, problem-solving, and development trends!
 
-Passionate about **software development**, **database management**, and **programming**. Currently diving deep into **SQL**, **Java**, and **web technologies**. Always excited to learn and share insights on tech, problem-solving, and development trends!
+---
+
+## 🌟 "Programming isn't just about writing code; it's about solving problems creatively." – Unknown
+
+This quote drives my passion for **problem-solving**, and my journey in **software development**.
 
 ---
 
 ## 🛠️ Skills
+- **Languages:** Java, SQL, JavaScript
+- **Web Development:** HTML, CSS, JavaScript
+- **Backend:** Server-side basics, Database integration
+- **Tools:** Git, VSCode, Eclipse
+- **OS:** Linux, Windows
 
-* **Languages:** Java, SQL, JavaScript
-* **Web Dev:** HTML, CSS, JavaScript (responsive UIs)
-* **Backend:** Server-side basics, Database integration
-* **Tools:** Git, VSCode, Eclipse
-* **OS:** Linux, Windows
+---
+
+## 🎮 Fun Facts
+![Anime](https://media.giphy.com/media/J1txdVrIq28l1kKrrO/giphy.gif)
+*I love anime and believe in bringing fun into programming!*
 
 ---
 
 ## 📊 GitHub Stats
-
-![Kiran Rao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiranraoboinapally\&show_icons=true\&theme=radical)
+![Kiran Rao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiranraoboinapally&show_icons=true&theme=radical)
 
 ---
 
 ## 🌐 Connect with Me
-
 [LinkedIn](https://www.linkedin.com/in/kiranrao07)
 
 ---
 
-*Explore my repositories and let’s connect!*
+*Explore my repositories, and let’s connect!*
 
+---
