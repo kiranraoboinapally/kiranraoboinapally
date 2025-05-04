@@ -1,47 +1,33 @@
 
 # Hi there! I'm Kiran Rao 👋
 
-## 🌍 About Me
-- Passionate about software development, database management, and programming.
-- Currently deepening my knowledge in SQL, Java, and web technologies.
-- Always open to discussing tech, problem-solving, and new development trends!
+## 🚀 About Me
+
+Passionate about **software development**, **database management**, and **programming**. Currently diving deep into **SQL**, **Java**, and **web technologies**. Always excited to learn and share insights on tech, problem-solving, and development trends!
 
 ---
 
-## 🚀 Skills
+## 🛠️ Skills
 
-### Programming & Development
-- **Java:** Core Java, object-oriented design, data structures, algorithms
-- **SQL:** MySQL, query optimization, joins, data manipulation (DML/DDL)
-
-### Web Development
-- **Frontend:** HTML, CSS, JavaScript – responsive and dynamic UIs
-- **Backend:** Server-side basics, database integration
-
-### Tools & Environments
-- **Version Control:** Git (GitHub)
-- **IDEs:** VSCode, Eclipse
-- **OS:** Linux, Windows
-
-### Problem Solving & Algorithms
-- Experience in competitive programming and algorithmic challenges
+* **Languages:** Java, SQL, JavaScript
+* **Web Dev:** HTML, CSS, JavaScript (responsive UIs)
+* **Backend:** Server-side basics, Database integration
+* **Tools:** Git, VSCode, Eclipse
+* **OS:** Linux, Windows
 
 ---
 
 ## 📊 GitHub Stats
-![Kiran Rao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiranraoboinapally&show_icons=true&theme=radical)
 
-
----
-
-## 👁️ Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=kiranraoboinapally)
+![Kiran Rao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiranraoboinapally\&show_icons=true\&theme=radical)
 
 ---
 
-## 🔗 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/kiranrao07)
+## 🌐 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/kiranrao07)
 
 ---
 
-*Explore my repositories, and let’s connect!*
+*Explore my repositories and let’s connect!*
+
