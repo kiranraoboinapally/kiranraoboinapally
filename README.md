@@ -17,10 +17,8 @@ Passionate about **software development**, **database management**, and **progra
 
 ## 📊 GitHub Stats
 ![Kiran Rao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiranraoboinapally&show_icons=true&theme=radical)
-## 🛠️ GitHub Contribution Graph
-![Kiran Rao's GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=kiranraoboinapally&theme=github)
 
 ---
 
-*Explore my repositories, and let’s connect!*
+Explore my repositories, and let’s connect!
 ---
