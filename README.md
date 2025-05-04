@@ -1,3 +1,4 @@
+
 # Hi there! I'm Kiran Rao 👋
 
 ## 🌍 About Me
@@ -5,38 +6,41 @@
 - Currently deepening my knowledge in SQL, Java, and web technologies.
 - Always open to discussing tech, problem-solving, and new development trends!
 
+---
+
 ## 🚀 Skills
 
-### **Programming & Development**
-- **Java**: Strong foundation in core Java, object-oriented programming (OOP), data structures, and algorithms.
-- **SQL**: Proficient in MySQL, query optimization, joins, and data manipulation using DML/DDL commands.
+### Programming & Development
+- **Java:** Core Java, object-oriented design, data structures, algorithms
+- **SQL:** MySQL, query optimization, joins, data manipulation (DML/DDL)
 
-### **Web Development**
-- **Frontend**: HTML, CSS, JavaScript – Building responsive and dynamic user interfaces.
-- **Backend**: Basic experience with server-side programming and database integration.
+### Web Development
+- **Frontend:** HTML, CSS, JavaScript – responsive and dynamic UIs
+- **Backend:** Server-side basics, database integration
 
-### **Tools & Environments**
-- **Version Control**: Git (GitHub)
-- **IDEs & Editors**: VSCode, IntelliJ IDEA
-- **OS**: Linux, Windows
+### Tools & Environments
+- **Version Control:** Git (GitHub)
+- **IDEs:** VSCode, Eclipse
+- **OS:** Linux, Windows
 
-### **Problem Solving & Algorithms**
-- Experience solving algorithmic challenges and optimizing code for efficiency and scalability.
+### Problem Solving & Algorithms
+- Experience in competitive programming and algorithmic challenges
 
-## 📈 GitHub Stats
-[![Kiran Rao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiranraoboinapally&show_icons=true&count_private=true&theme=dark)](https://github.com/kiranraoboinapally)
+---
+
+## 📊 GitHub Stats
+![Kiran Rao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiranraoboinapally&show_icons=true&theme=radical)
+
+---
 
 ## 👁️ Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=kiranraoboinapally)
 
+---
+
 ## 🔗 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/kiranrao07)
 
-Explore my repositories, and let’s connect!
+---
 
-
-
-<!---
-kiranraoboinapally/kiranraoboinapally is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*Explore my repositories, and let’s connect!*
