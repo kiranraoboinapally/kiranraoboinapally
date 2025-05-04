@@ -15,15 +15,9 @@ This quote drives my passion for **problem-solving**, and my journey in **softwa
 ## 🛠️ Skills
 - **Languages:** Java, SQL, JavaScript
 - **Web Development:** HTML, CSS, JavaScript
-- **Backend:** Server-side basics, Database integration
+- **Backend:** Server-side basics, Database integration,Spring Boot,Maven
 - **Tools:** Git, VSCode, Eclipse
 - **OS:** Linux, Windows
-
----
-
-## 🎮 Fun Facts
-![Anime](https://media.giphy.com/media/J1txdVrIq28l1kKrrO/giphy.gif)
-*I love anime and believe in bringing fun into programming!*
 
 ---
 
