@@ -6,12 +6,6 @@ Passionate about **software development**, **database management**, and **progra
 
 ---
 
-## 🌟 "Programming isn't just about writing code; it's about solving problems creatively." – Unknown
-
-This quote drives my passion for **problem-solving**, and my journey in **software development**.
-
----
-
 ## 🛠️ Skills
 - **Languages:** Java, SQL, JavaScript
 - **Web Development:** HTML, CSS, JavaScript
