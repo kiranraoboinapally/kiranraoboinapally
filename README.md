@@ -20,11 +20,5 @@ Passionate about **software development**, **database management**, and **progra
 
 ---
 
-## 🌐 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/kiranrao07)
-
----
-
 *Explore my repositories, and let’s connect!*
-
 ---
