@@ -25,7 +25,8 @@ Passionate about **software development**, **database management**, and **progra
 ---
 
 ## 📊 GitHub Stats
-![Kiran Rao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiranraoboinapally&show_icons=true&theme=radical)
+
+[![My GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=kiranraoboinapally&show_icons=true&theme=radical)](https://github.com/kiranraoboinapally)
 
 ---
 
