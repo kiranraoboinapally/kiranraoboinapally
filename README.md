@@ -8,7 +8,6 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kiranraoboinapally&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/kiranraoboinapally?style=for-the-badge&logo=github&color=blue" alt="Followers" />
 </p>
 
@@ -98,29 +97,6 @@ const kiran = {
 
 ---
 
-### 🔥 Contribution Activity Graph
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kiranraoboinapally&custom_title=Kiran's%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true" alt="Contribution Graph" />
-
-
-### 📊 Detailed Analytics
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiranraoboinapally&theme=tokyonight" alt="Profile Summary" />
-</p>
-
-<p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kiranraoboinapally&theme=tokyonight" alt="Repos Per Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kiranraoboinapally&theme=tokyonight" alt="Most Commit Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kiranraoboinapally&theme=tokyonight" alt="Stats" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kiranraoboinapally&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
-</p>
-
-</div>
-
 
 ## 📫 Connect With Me
 
@@ -135,15 +111,6 @@ const kiran = {
 
 ---
 
-## 💡 Developer Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
 
 ## 📚 Latest Insights
 
