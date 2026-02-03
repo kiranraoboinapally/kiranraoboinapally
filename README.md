@@ -180,15 +180,9 @@ Backend > Frontend ? "Build it strong" : "Make it beautiful"
 *"Talk is cheap. Show me the code."* - **Linus Torvalds**
 
 ---
-
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-
-**Made with ❤️ and lots of ☕**
-
 </div>
-```
+ **Made with ❤️ and lots of ☕**
 
 
-
-
----
